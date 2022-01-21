@@ -1,16 +1,11 @@
 # DSMovie
-Se trata de um catálogo de classificação de filmes/séries.
-Uma aplicação desenvolvida na Semana Spring React ministrada pelo Nelio Alves da DevSuperior.
-
-
-# Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquebenjamim/dsmovie/blob/main/LICENSE) 
 
 # Sobre o projeto
 
 https://henriquebenjamim-dsmovie.netlify.app/
 
-DSMovie é uma aplicação full stack web e mobile construída durante a 3ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSMovie é uma aplicação full stack construída durante a 3ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um catálogo de filmes que podem ser avaliados utilizando apenas um campo de email e o da pontuação. O catálogo é fornecido por um banco de dados relacional com o auxílio de um serviço em nuvem. 
 
