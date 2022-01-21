@@ -5,7 +5,7 @@
 
 https://henriquebenjamim-dsmovie.netlify.app/
 
-DSMovie é uma aplicação full stack construída durante a 3ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSMovie é uma aplicação full stack construída durante a 6ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um catálogo de filmes que podem ser avaliados utilizando apenas um campo de email e o da pontuação. O catálogo é fornecido por um banco de dados relacional com o auxílio de um serviço em nuvem. 
 
